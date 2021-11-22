@@ -1,6 +1,6 @@
 /**
  *   * Code Challenge - 09
- *   * CodeSignal - 10 - commonCharacterCount
+ *   * CodeSignal - 10 - 
  *  ^ Given two strings, find the number of common characters between them.
  * 
  *  ^ Example: 
